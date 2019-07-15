@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cell
+  - key
+  - lock
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Modal
+  - HighestLayer
+  - uiHigher
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3856721799
+    locked: 0
+  - name: Plate
+    uniqueID: 4282295945
+    locked: 0
+  - name: PlateRecordBackground
+    uniqueID: 1469031735
+    locked: 0
+  - name: knife + plate
+    uniqueID: 2155227149
+    locked: 0
+  - name: foods
+    uniqueID: 3482406803
+    locked: 0
+  - name: cellBackground
+    uniqueID: 3644636125
+    locked: 0
+  - name: cells
+    uniqueID: 3095274821
+    locked: 0
+  - name: scoreBackground
+    uniqueID: 2427631961
+    locked: 0
+  - name: scoreText
+    uniqueID: 2129831677
+    locked: 0

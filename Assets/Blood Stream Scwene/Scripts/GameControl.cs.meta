@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7c067909adf434b0687f8e61bdc90117
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {fileID: 486966998336748366, guid: e1be38c720d504983a4c749caffb849f,
+      type: 3}
+  - caloriesText: {fileID: 7811439751286058480, guid: ab09a3ae2fa2c464aa8c3adf0f144ed9,
+      type: 3}
+  - fiberText: {fileID: 4576726683681590639, guid: a028d08d120424613a6290f490c02787,
+      type: 3}
+  - fatText: {fileID: 3245485955080879928, guid: b6ba43cd9355442288d5ff8ba7dade6e,
+      type: 3}
+  - carbsText: {fileID: 3712711504286472257, guid: 58a370f342bca442e97a5c1c866dfcfd,
+      type: 3}
+  - sugarText: {fileID: 6220497475622544865, guid: 4fae1a3ccc6ee41efaf60ea7950c9796,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
